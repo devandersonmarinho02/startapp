@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'apps.funcionarios',
     'apps.clientes',
     'apps.documentos',
+    'apps.departamentos',
+    'apps.agendamentos',
 ]
 
 MIDDLEWARE = [
